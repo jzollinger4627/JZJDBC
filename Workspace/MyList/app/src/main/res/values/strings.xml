@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">JZMyList</string>
+    <string-array name="items">
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$0.99</item>
+        <item>$1.49</item>
+        <item>$3.89</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Nice little plot of land</item>
+        <item>Nice plot of land</item>
+        <item>Nice big plot of land</item>
+    </string-array>
+
+</resources>
